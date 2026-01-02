@@ -1,0 +1,66 @@
+/* =============================
+   Dashboard Layout
+============================= */
+.dashboard {
+  background: var(--bg-page);
+  min-height: 100vh;
+}
+
+/* =============================
+   Content Wrapper
+============================= */
+.dashboard-content {
+  padding: 32px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* =============================
+   Sections
+============================= */
+.dashboard-section {
+  margin-bottom: 48px;
+}
+
+.dashboard-section h1 {
+  margin-bottom: 18px;
+  font-size: 22px;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+/* =============================
+   Grid System
+============================= */
+.dashboard-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
+
+.dashboard-grid.full-width {
+  grid-template-columns: 1fr;
+}
+
+/* =============================
+   Responsive
+============================= */
+@media (max-width: 1200px) {
+  .dashboard-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .dashboard-content {
+    padding: 20px;
+  }
+
+  .dashboard-section {
+    margin-bottom: 36px;
+  }
+
+  .dashboard-grid {
+    grid-template-columns: 1fr;
+  }
+}
