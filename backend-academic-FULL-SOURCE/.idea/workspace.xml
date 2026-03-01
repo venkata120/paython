@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d77d3a1-0047-472f-9601-bec04a4e189f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../DepartmentCourseSubjectsSemister.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/AcademicApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/AcademicApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/config/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/config/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/controller/CourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/controller/CourseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/controller/DepartmentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/controller/DepartmentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/controller/FacultyWorkloadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/controller/FacultyWorkloadController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/controller/StaffController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/controller/StaffController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/controller/SubjectController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/controller/SubjectController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/dto/FacultyWorkloadRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/dto/SubjectRequestDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/entity/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/entity/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/entity/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/entity/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/entity/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/entity/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/entity/FacultyWorkload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/entity/FacultyWorkload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/entity/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/entity/Staff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/entity/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/entity/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/exception/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/exception/ResourceNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/exception/ResourceNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/repository/AdminRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/repository/AdminRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/repository/CourseRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/repository/CourseRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/repository/DepartmentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/repository/DepartmentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/repository/FacultyWorkloadRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/repository/FacultyWorkloadRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/repository/StaffRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/repository/StaffRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/repository/SubjectRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/repository/SubjectRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/service/AdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/service/AdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/service/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/service/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/service/CourseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/service/CourseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/service/DepartmentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/service/DepartmentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/service/FacultyWorkloadService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/service/FacultyWorkloadService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/service/SemesterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/service/SemesterService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/service/StaffService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/service/StaffService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/service/SubjectService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/service/SubjectService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/college/academic/util/ApiResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/college/academic/util/ApiResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/AcademicApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/college/academic/AcademicApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/config/CorsConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/college/academic/config/CorsConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/controller/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/college/academic/controller/AuthController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/controller/CourseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/college/academic/controller/CourseController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/controller/DepartmentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/college/academic/controller/DepartmentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/controller/FacultyWorkloadController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/college/academic/controller/FacultyWorkloadController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/controller/StaffController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/college/academic/controller/StaffController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/controller/SubjectController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/college/academic/controller/SubjectController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/dto/CourseRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/dto/DepartmentRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/dto/FacultyWorkloadRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/dto/LoginRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/dto/SemesterRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/entity/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/college/academic/entity/Admin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/entity/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/college/academic/entity/Course.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/entity/Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/college/academic/entity/Department.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/entity/FacultyWorkload.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/college/academic/entity/FacultyWorkload.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/entity/Staff.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/college/academic/entity/Staff.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/entity/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/college/academic/entity/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/entity/SubjectType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/exception/ResourceNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/college/academic/exception/ResourceNotFoundException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/repository/AdminRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/college/academic/repository/AdminRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/repository/CourseRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/college/academic/repository/CourseRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/repository/DepartmentRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/college/academic/repository/DepartmentRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/repository/SubjectRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/college/academic/repository/SubjectRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/service/AuthService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/college/academic/service/AuthService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/service/CourseService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/college/academic/service/CourseService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/service/DepartmentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/college/academic/service/DepartmentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/service/FacultyWorkloadService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/college/academic/service/FacultyWorkloadService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/service/StaffService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/college/academic/service/StaffService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/service/SubjectService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/college/academic/service/SubjectService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/college/academic/util/ApiResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/college/academic/util/ApiResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend-academic/src/pages/Course.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend-academic/src/pages/Course.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend-academic/src/pages/Department.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend-academic/src/pages/Department.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend-academic/src/pages/FacultySubjectAssignment.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend-academic/src/pages/FacultySubjectAssignment.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Bkeshava123&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/BRAHMAKESHAVA/python.git&quot;,
+    &quot;accountId&quot;: &quot;d4d5fed9-61f8-420d-bae0-45f1b8287666&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="37i4m7bowqS6nyy7BNMhFFP8tfc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AcademicApplication.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;kbk&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/D/College Project/backend-academic-FULL-SOURCE&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="AcademicApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.college.academic.AcademicApplication" />
+      <module name="backend-academic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.college.academic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AcademicApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d77d3a1-0047-472f-9601-bec04a4e189f" name="Changes" comment="" />
+      <created>1767372713796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767372713796</updated>
+    </task>
+    <servers />
+  </component>
+</project>
